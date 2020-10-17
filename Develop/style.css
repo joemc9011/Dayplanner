@@ -1,0 +1,29 @@
+.jumbotron {
+    background-image: url("/Dayplanner/Assets/calming.jpg");
+    color: white;
+    font-family: 'Poiret One', cursive;
+    
+
+}
+
+h1 {
+    font-size: 140px;
+}
+
+#undertext {
+    font-size: 30px;
+}
+
+#currentDay {
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+body {
+    background-color: darkseagreen;
+}
+
+#save {
+    color: white;
+}
